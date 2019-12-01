@@ -1,0 +1,9 @@
+# Config
+config.yml
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.dylib
+*.so
